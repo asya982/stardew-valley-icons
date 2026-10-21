@@ -1,0 +1,7 @@
+id = "stardew-valley-icons"
+name = "Stardew Valley Icon Theme"
+version = "1.0.0"
+schema_version = 1
+authors = ["asya982"]
+description = "Icons from the game Stardew Valley"
+repository = "https://github.com/asya982/stardew-valley-icons"
